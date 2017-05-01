@@ -1,11 +1,11 @@
-##Tidy data set
+## Tidy data set
 
-###Identifier
+### Identifier
 #### Subject: A unique  identifier for the 30  subject who carried out the experiment.
 #### Activities:  Each subject performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
 
 
-###Varibles 
+### Varibles 
 
 Detailed information of the measured variables can be found on this link:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
