@@ -17,6 +17,8 @@ This script downloads the data set information and process it for  create follow
 	Merges the training and the test sets to create one data set.
 	2. avg-by-each-activty-and-subject.csv  
 	Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+	3. avg-by-each-activty-and-subject.txt
+	The actual file requested on submission, same file as above.
 	
 
 ### Download latest code from following git repo and set your R working directory on it:
