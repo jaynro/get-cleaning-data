@@ -9,11 +9,11 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-## EXECUTE THE SCRIPT:
+## Execute the script:
 
-This scripts downloads the raw data set information and process it for  create 2 files as specified on assignment requierements:
-	merged-data.csv : Merges the training and the test sets to create one data set.
-	avg-by-each-activty-and-subject.csv : Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+This script downloads the data set information and process it for  create following files as specified on assignment requierements:
+	1. merged-data.csv : Merges the training and the test sets to create one data set.
+	2. avg-by-each-activty-and-subject.csv : Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ### Download latest code from following git repo and set your R working directory on it:
 https://github.com/jaynro/get-cleaning-data
