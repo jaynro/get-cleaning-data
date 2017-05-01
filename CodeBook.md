@@ -2,10 +2,10 @@
 
 ### Identifiers
  1. Subject: A unique  identifier for the 30  subject who carried out the experiment.
- 2. Activities:  Each subject performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+ 2. Activities:  Each subject can perform the following activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
 
-### Varibles 
+### Variables 
 
 Detailed information of the measured variables can be found on this link:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -17,9 +17,11 @@ In order to filter  the requiered columns (Mean & Std) and replace them for mean
  2. Replace above for 'Mean' and 'Std'
  3. Remove '()'
 
-Examples:
-	From 'tBodyAcc-mean()-X'  converted to  'tBodyAccMeanX'
-	From 'tBodyAcc-std()-X'  converted to  'tBodyAccStdX'
+#### Examples:
+
+		From 'tBodyAcc-mean()-X'  converted to  'tBodyAccMeanX'
+		From 'tBodyAcc-std()-X'  converted to  'tBodyAccStdX'
+
 
 
 
