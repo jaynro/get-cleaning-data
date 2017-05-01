@@ -1,8 +1,8 @@
-## Tidy data set
+## Code book
 
-### Identifier
-#### Subject: A unique  identifier for the 30  subject who carried out the experiment.
-#### Activities:  Each subject performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+### Identifiers
+Subject: A unique  identifier for the 30  subject who carried out the experiment.
+Activities:  Each subject performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
 
 
 ### Varibles 
